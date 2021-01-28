@@ -1,0 +1,13 @@
+body {
+    color: rgb(211, 42, 211);}
+    section {
+        color: rgb(240, 77, 2);
+    }
+    form {
+        color: greenyellow;
+    }
+    
+    button, input {
+        color: inherit;
+} 
+ 

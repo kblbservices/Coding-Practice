@@ -1,0 +1,6 @@
+h2 {color: rgb(255, 94, 0);}
+button {background-color: violet; width: 200px; height: 30px; font-size: large;}
+body {background-color: #ffd900;}
+input[type="submit"] {background-color: mistyrose; color: navy;}
+label[for="agree"] {font-weght: bold; font-size: x-large;}
+button:hover {background-color: #ff00c7;}

@@ -1,0 +1,6 @@
+h1 {color: red}
+#signup {background-color: salmon; color: slateblue;}
+span {color: slategray;}
+.tag {background-color:rgb(240, 17, 240); color: yellow;}
+.post {color:rgb(119, 22, 119); border: cornflowerblue; border-style: outset;}
+footer > a {color: rgb(250, 0, 146);}
